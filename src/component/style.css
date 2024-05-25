@@ -13,7 +13,7 @@
 h1 {
   font-size: 48px;
 }
-button {
+.btn {
   width: 200px;
   padding: 10px 5px;
   border-radius: 5px;
